@@ -1,1 +1,1 @@
-# skin_lension_detection
+# skin_lesion_detection
